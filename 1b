@@ -1,3 +1,5 @@
+1b. Program to recognize and count the number of identifiers in a file
+Code:
 %{
 #include<stdio.h>
 int i=0;
