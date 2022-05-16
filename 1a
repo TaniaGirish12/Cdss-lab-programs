@@ -1,3 +1,5 @@
+1a. Program to count the number, words, spaces and lines in a given input file
+Code:
 %{
 #include<stdio.h>
 int c=0;
